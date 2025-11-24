@@ -9,7 +9,6 @@ st.write(
   """Choose the friuits you want in your custom Smoothie!
   """
 )
-
 #import streamlit as st
 
 #option = st.selectbox(
